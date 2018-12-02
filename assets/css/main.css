@@ -3547,7 +3547,7 @@
 /* Footer */
 
 	#footer {
-		background-color: #e5474b;
+		background-color: #f6ee52;
 		color: #f2a3a5;
 		padding: 4em 0 2em 0;
 		background: #e5474b;
@@ -3647,7 +3647,7 @@
 			#footer button.special,
 			#footer .button.special {
 				background-color: #ffffff;
-				color: #e5474b !important;
+				color: #f6ee52 !important;
 			}
 
 		#footer label {
@@ -3691,7 +3691,7 @@
 		#footer input[type="radio"]:checked + label:before {
 			background-color: #ffffff;
 			border-color: #ffffff;
-			color: #e5474b;
+			color: #f6ee52;
 		}
 
 		#footer input[type="checkbox"]:focus + label:before,
