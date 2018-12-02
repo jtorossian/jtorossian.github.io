@@ -3372,8 +3372,8 @@
 		text-align: left;
 		position: relative;
 		z-index: 9999;
-		width: auto;
-		height: auto;
+		max-width: auto;
+		max-height: 50%;
 	}
 
 		#banner input, #banner select, #banner textarea {
