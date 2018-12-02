@@ -1777,32 +1777,32 @@
 	}
 
 	input, select, textarea {
-		color: #e5474b;
+		color: #f6ee52;
 	}
 
 	a {
-		color: #e5474b;
+		color: #f6ee52;
 	}
 
 	strong, b {
-		color: #e5474b;
+		color: #f6ee52;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #e5474b;
+		color: #f6ee52;
 	}
 
 	blockquote {
-		border-left-color: #e5474b;
+		border-left-color: #f6ee52;
 	}
 
 	code {
 		background: none;
-		border-color: #e5474b;
+		border-color: #f6ee52;
 	}
 
 	hr {
-		border-bottom-color: #e5474b;
+		border-bottom-color: #f6ee52;
 	}
 
 /* Box */
@@ -1957,7 +1957,7 @@
 		button.alt,
 		.button.alt {
 			background-color: transparent;
-			box-shadow: inset 0 0 0 2px #e5474b;
+			box-shadow: inset 0 0 0 2px #f6ee52;
 			color: #e5474b !important;
 		}
 
@@ -1990,7 +1990,7 @@
 		input[type="button"].special,
 		button.special,
 		.button.special {
-			background-color: #e5474b;
+			background-color: #f6ee52;
 			color: #ffffff !important;
 		}
 
@@ -1999,7 +1999,7 @@
 			input[type="button"].special:hover,
 			button.special:hover,
 			.button.special:hover {
-				background-color: #e85d61;
+				background-color: #f6ee52;
 			}
 
 			input[type="submit"].special:active,
@@ -2007,7 +2007,7 @@
 			input[type="button"].special:active,
 			button.special:active,
 			.button.special:active {
-				background-color: #e23135;
+				background-color: #f6ee52;
 			}
 
 /* Form */
@@ -2232,7 +2232,7 @@
 	}
 
 	label {
-		color: #e5474b;
+		color: #f6ee52;
 	}
 
 	input[type="text"],
