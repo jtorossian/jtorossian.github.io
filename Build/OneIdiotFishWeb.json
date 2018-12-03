@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "ONEIDIOTFISH",
+"dataUrl": "OneIdiotFishWeb.data.unityweb",
+"wasmCodeUrl": "OneIdiotFishWeb.wasm.code.unityweb",
+"wasmFrameworkUrl": "OneIdiotFishWeb.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
