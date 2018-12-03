@@ -3370,11 +3370,10 @@ ul.alt li {
     background-image: url("banner.png");
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: 15% left;
     text-align: left;
     position: relative;
     z-index: 9999;
-    height: auto;
+    height: 10%;
     width: auto;
 }
 
@@ -3525,21 +3524,7 @@ ul.alt li {
 			opacity: 1;
 		}
 
-		@media screen and (max-width: 1680px) {
 
-			#banner {
-				padding: 10em 0 8em 0;
-			}
-
-		}
-
-		@media screen and (max-width: 1280px) {
-
-			#banner {
-				padding: 8em 0 6em 0;
-			}
-
-		}
 
 		@media screen and (max-width: 980px) {
 
