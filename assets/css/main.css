@@ -3571,7 +3571,7 @@
 		}
 
 		#footer blockquote {
-			border-left-color: #fff;
+			border-left-color: #ff7f02;
 		}
 
 		#footer code {
@@ -3615,7 +3615,7 @@
 			#footer .button.alt {
 				background-color: transparent;
 				box-shadow: inset 0 0 0 2px #fff;
-				color: #ffffff !important;
+				color: #ff7f02f !important;
 			}
 
 				#footer input[type="submit"].alt:hover,
@@ -3639,7 +3639,7 @@
 				#footer input[type="button"].alt.icon:before,
 				#footer button.alt.icon:before,
 				#footer .button.alt.icon:before {
-					color: #f8d1d2;
+					color: #ff7f02;
 				}
 
 			#footer input[type="submit"].special,
@@ -3648,7 +3648,7 @@
 			#footer button.special,
 			#footer .button.special {
 				background-color: #ffffff;
-				color: #f6ee52 !important;
+				color: #ff7f02 !important;
 			}
 
 		#footer label {
