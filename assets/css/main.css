@@ -3554,19 +3554,19 @@
 	}
 
 		#footer input, #footer select, #footer textarea {
-			color: #ffffff;
+			color: #ff7f02;
 		}
 
 		#footer a {
-			color: #ffffff;
+			color: #ff7f02;
 		}
 
 		#footer strong, #footer b {
-			color: #ffffff;
+			color: #ff7f02;
 		}
 
 		#footer h1, #footer h2, #footer h3, #footer h4, #footer h5, #footer h6 {
-			color: #fff;
+			color: #ff7f02;
 		}
 
 		#footer blockquote {
@@ -3575,11 +3575,11 @@
 
 		#footer code {
 			background: none;
-			border-color: #fff;
+			border-color: #ff7f02;
 		}
 
 		#footer hr {
-			border-bottom-color: #fff;
+			border-bottom-color: #ff7f02;
 		}
 
 		#footer input[type="submit"],
@@ -3588,7 +3588,7 @@
 		#footer button,
 		#footer .button {
 			background-color: #5a5a5a;
-			color: #ffffff !important;
+			color: #ff7f02 !important;
 		}
 
 			#footer input[type="submit"]:hover,
